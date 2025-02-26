@@ -18,7 +18,6 @@ coffee_machine/
 │-- main.py              # Runs the coffee machine
 
 
-
 ## 📦 Requirements
 
 Ensure you have the following installed:
